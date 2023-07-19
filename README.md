@@ -1,10 +1,10 @@
-# Singularitti Tap
+# My Homebrew Tap
 
 ## How do I install these formulae?
 
-`brew install singularitti/tap/<formula>`
+`brew install singularitti/homebrew-tap/<formula>`
 
-Or `brew tap singularitti/tap` and then `brew install <formula>`.
+Or `brew tap singularitti/homebrew-tap` and then `brew install <formula>`.
 
 ## Documentation
 
